@@ -1,0 +1,12 @@
+body{
+    background-color: lightskyblue;
+    font-family: monospace;
+}
+
+.ex1{
+    background-color: aliceblue;
+    border: 2px solid olivedrab;
+    padding: 2px; 
+    outline: 4px solid rgb(238, 215, 6);
+    outline-offset: 8px;
+}

@@ -1,0 +1,13 @@
+body {
+    background-color: royalblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: magenta}
+
+    h2 {
+        color: springgreen;
+    }
+
+    p {
+        color: powderblue;
+        background-color: rgb(7, 118, 79);
+    }
