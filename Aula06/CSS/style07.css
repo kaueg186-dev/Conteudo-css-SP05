@@ -1,0 +1,16 @@
+body {
+    background-color: mediumpurple;
+    font-family: monospace;
+}
+
+.p-20px {
+    font-size: 20px;
+}
+
+.p-25px {
+    font-size: 25px;
+}
+
+.p-30px {
+    font-size: 30px;
+}

@@ -1,0 +1,16 @@
+body {
+    background-color: mediumblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p-uppercase {
+    text-transform: uppercase;
+}
+
+.p-lowercase {
+    text-transform: lowercase;
+}
+
+.p-capitalize {
+    text-transform: capitalize;
+}
